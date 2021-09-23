@@ -6,7 +6,7 @@ The Food Cartel is a platform for talented and skilled cooks to monetize their c
 - Stuck at home? craving to eat original, affordable and healthy food?
 - Want to share the new recipe you created?
 - Looking for new recipes to try out?
-- ✨MSign up now!✨
+- ✨Sign up now!✨
 
 ## API routes:
 
