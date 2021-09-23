@@ -1,6 +1,6 @@
 # The Food Cartel
 
-The Food Cartel is a platform for talented and skilled cooks to monetize their cooking and culanary skills, and for foodies to share recipes and order affordable home-made food.
+The Food Cartel is a platform for talented and skilled cooks to monetize their cooking and culinary skills, and for foodies to share recipes and order affordable home-made food.
 
 - Do you have a dish that you would like the world to taste?
 - Stuck at home? craving to eat original, affordable and healthy food?
